@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HospitalRun/hospitalrun-core.git"
+    "url": "git+https://github.com/mikeslim7/hospitalrun-core.git"
   },
   "author": "Maksim Sinik <maksim@sinik.it>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HospitalRun/hospitalrun-core/issues"
+    "url": "https://github.com/mikeslim7/hospitalrun-core/issues"
   },
-  "homepage": "https://github.com/HospitalRun/hospitalrun-core#readme",
+  "homepage": "https://github.com/mikeslim7/hospitalrun-core#readme",
   "devDependencies": {
     "@commitlint/cli": "~16.1.0",
     "@commitlint/config-conventional": "~16.0.0",
